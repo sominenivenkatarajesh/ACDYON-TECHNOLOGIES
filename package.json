@@ -4,7 +4,6 @@
   "private": true,
   "description": "Pulse API Uptime & Latency Monitoring",
   "scripts": {
-    "build": "echo 'Build complete'",
-    "start": "echo 'Static site ready'"
+    "build": "node build.js"
   }
 }
