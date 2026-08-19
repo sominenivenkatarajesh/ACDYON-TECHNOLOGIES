@@ -29,8 +29,8 @@
   --border-strong: #363e4d;    /* Focus & active state border */
 
   --text-primary: #f1f3f5;     /* High-contrast off-white body text */
-  --text-secondary: #8e96a4;   /* Neutral slate metadata & labels (9.2:1 contrast) */
-  --text-muted: #838c9c;       /* Low-priority metadata text (WCAG AA 7.6:1 contrast) */
+  --text-secondary: #8e96a4;   /* Neutral slate metadata & labels (WCAG AA 6.4:1 contrast) */
+  --text-muted: #838c9c;       /* Low-priority metadata text (WCAG AA 5.6:1 contrast) */
 
 
   /* Semantic Status Colors (Used exclusively for API status indicators) */
